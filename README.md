@@ -26,7 +26,7 @@ No third-party Python packages are required.
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone <https://github.com/RoyKawaguchi/kevin-bacon-game>
 cd kevin-bacon-game
 ```
 
